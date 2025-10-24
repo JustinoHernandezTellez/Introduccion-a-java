@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761267171.96997 "c:/Users/Justi/OneDrive/Escritorio/Curso 1/latex/prueba.tex" "prueba.pdf" "prueba" 1761267172.66445 0
+["pdflatex"] 1761267307.19842 "c:/Users/Justi/OneDrive/Escritorio/Curso 1/latex/Leer.tex" "Leer.pdf" "Leer" 1761267308.10236 0
   "C:/Users/Justi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761138650 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Justi/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761140446 24225047 921a961349920c82ac9885bddefcd45d ""
   "C:/Users/Justi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -18,11 +18,11 @@
   "C:/Users/Justi/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
   "C:/Users/Justi/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "C:/Users/Justi/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "c:/Users/Justi/OneDrive/Escritorio/Curso 1/latex/prueba.tex" 1761267170 364 c69733e55a517f66c434c01a1f179ca2 ""
-  "prueba.aux" 1761267172 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "prueba.tex" 1761267170 364 c69733e55a517f66c434c01a1f179ca2 ""
+  "Leer.aux" 1761267307 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Leer.tex" 1761267170 364 c69733e55a517f66c434c01a1f179ca2 ""
+  "c:/Users/Justi/OneDrive/Escritorio/Curso 1/latex/Leer.tex" 1761267170 364 c69733e55a517f66c434c01a1f179ca2 ""
   (generated)
-  "prueba.aux"
-  "prueba.log"
-  "prueba.pdf"
+  "Leer.aux"
+  "Leer.log"
+  "Leer.pdf"
   (rewritten before read)
