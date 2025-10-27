@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>El display</title>
+    <style type="text/css">
+        nav{
+
+            display: flex;
+        }
+        a{
+            width: 25%;
+        }
+        div,img{
+            border: 1px solid black;
+        }
+        
+        img{
+            vertical-align: top;
+        }
+        section{
+            display: flex;
+        }
+        h1:hover{
+            visibility: hidden;
+        }
+        @media only screen and (max-width:600px){
+            nav{
+                flex-direction: column;
+            }
+            a:nth-child(1){
+                order:1
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="./Su-57.jpg">
+    </div>
+    <div>
+        <img src="./F-22_Raptor_edit1_(cropped).jpg">
+    </div>
+</section>
+    <nav>
+        <a href="#">A</a>
+        <a href="#">BBB</a>
+        <a href="#">CCC</a>
+        <a href="#">DDD</a>
+    </nav>
+    <h1>C</h1>
+    <p>D</p>
+    <span>C</span>
+    <button>Aceptar</button>
+    <input />
+</body>
+</html>

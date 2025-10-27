@@ -1,0 +1,19 @@
+*{
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+}
+
+.span{
+    display: inline-block;
+    width: 100px;
+    height: 80px;
+    padding: 1em;
+}
+
+.span, .link{
+    background-color: bisque;
+}
